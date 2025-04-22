@@ -1,0 +1,8 @@
+numpy
+torch
+lightning
+wandb
+timm
+torchvision
+fvcore
+scikit-learn

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c856293-f594-409e-993f-ddaac75ea8ee" name="bmtt">
+        <fileTransfer rootFolder="/home/jupyter-iec_thicao" accessType="SFTP" host="bmtt.iec-uit.com" port="8286" sshConfigId="6562877e-f727-4a90-9768-d0358f7570db" sshConfig="jupyter-iec_thicao@bmtt.iec-uit.com:8286 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
